@@ -1,3 +1,6 @@
-
-veena has been added
-every one has been added
+Its time for coding now...
+lets divide our jobs...
+Anantha Krishnan: web design,template
+Veena Subramanion : Html coding & DBA
+Haripriya : Php coding
+amal raj e: Html icon,gif design & testing 
